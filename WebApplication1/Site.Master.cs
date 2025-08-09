@@ -15,7 +15,7 @@ namespace WebApplication1
                 hlLogout.Visible = isLoggedIn;
             }
         }
-
+        // logout
         protected void hlLogout_Click(object sender, EventArgs e)
         {
             Session.Clear();

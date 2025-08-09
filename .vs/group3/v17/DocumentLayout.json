@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Yongbo Liu\\Desktop\\sitong\\Group3_project-rohit\\group3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B841497-96CD-42BF-BED5-ECC5033B92F3}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Yongbo Liu\\Desktop\\sitong\\Group3_project-rohit\\group3\\webapplication1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{8B841497-96CD-42BF-BED5-ECC5033B92F3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{8B841497-96CD-42BF-BED5-ECC5033B92F3}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Yongbo Liu\\Desktop\\sitong\\Group3_project-rohit\\group3\\webapplication1\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B841497-96CD-42BF-BED5-ECC5033B92F3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B841497-96CD-42BF-BED5-ECC5033B92F3}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Yongbo Liu\\Desktop\\sitong\\Group3_project-rohit\\group3\\webapplication1\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{8B841497-96CD-42BF-BED5-ECC5033B92F3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B841497-96CD-42BF-BED5-ECC5033B92F3}|WebApplication1\\WebApplication1.csproj|c:\\users\\yongbo liu\\desktop\\sitong\\group3_project-rohit\\group3\\webapplication1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8B841497-96CD-42BF-BED5-ECC5033B92F3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B841497-96CD-42BF-BED5-ECC5033B92F3}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Yongbo Liu\\Desktop\\sitong\\Group3_project-rohit\\group3\\webapplication1\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
@@ -19,12 +23,8 @@
       "RelativeMoniker": "D:0:0:{8B841497-96CD-42BF-BED5-ECC5033B92F3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B841497-96CD-42BF-BED5-ECC5033B92F3}|WebApplication1\\WebApplication1.csproj|c:\\users\\yongbo liu\\desktop\\sitong\\group3_project-rohit\\group3\\webapplication1\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B841497-96CD-42BF-BED5-ECC5033B92F3}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Yongbo Liu\\Desktop\\sitong\\Group3_project-rohit\\group3\\webapplication1\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B841497-96CD-42BF-BED5-ECC5033B92F3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B841497-96CD-42BF-BED5-ECC5033B92F3}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Yongbo Liu\\Desktop\\sitong\\Group3_project-rohit\\group3\\webapplication1\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B841497-96CD-42BF-BED5-ECC5033B92F3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B841497-96CD-42BF-BED5-ECC5033B92F3}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Yongbo Liu\\Desktop\\sitong\\Group3_project-rohit\\group3\\webapplication1\\site.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -69,11 +69,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Global.asax.cs",
               "DocumentMoniker": "C:\\Users\\Yongbo Liu\\Desktop\\sitong\\Group3_project-rohit\\group3\\WebApplication1\\Global.asax.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Global.asax.cs",
@@ -81,20 +81,20 @@
               "RelativeToolTip": "WebApplication1\\Global.asax.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T23:52:13.485Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-08T23:52:13.485Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Site.Master.cs",
               "DocumentMoniker": "C:\\Users\\Yongbo Liu\\Desktop\\sitong\\Group3_project-rohit\\group3\\WebApplication1\\Site.Master.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Site.Master.cs",
               "ToolTip": "C:\\Users\\Yongbo Liu\\Desktop\\sitong\\Group3_project-rohit\\group3\\WebApplication1\\Site.Master.cs",
               "RelativeToolTip": "WebApplication1\\Site.Master.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T23:39:29.716Z"
+              "WhenOpened": "2025-08-08T23:39:29.716Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -106,8 +106,7 @@
               "RelativeToolTip": "WebApplication1\\Site.Master.designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T23:51:13.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-08T23:51:13.476Z"
             },
             {
               "$type": "Document",
@@ -135,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Default.aspx",
               "DocumentMoniker": "C:\\Users\\Yongbo Liu\\Desktop\\sitong\\Group3_project-rohit\\group3\\WebApplication1\\Default.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Default.aspx",
@@ -173,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Login.aspx",
               "DocumentMoniker": "C:\\Users\\Yongbo Liu\\Desktop\\sitong\\Group3_project-rohit\\group3\\WebApplication1\\Login.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Login.aspx",
@@ -181,8 +180,7 @@
               "RelativeToolTip": "WebApplication1\\Login.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-08-08T23:44:31.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-08T23:44:31.36Z"
             },
             {
               "$type": "Document",
@@ -198,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Login.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Yongbo Liu\\Desktop\\sitong\\Group3_project-rohit\\group3\\WebApplication1\\Login.aspx.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Login.aspx.cs",
@@ -206,8 +204,7 @@
               "RelativeToolTip": "WebApplication1\\Login.aspx.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAYwBsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T23:45:22.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-08T23:45:22.266Z"
             },
             {
               "$type": "Document",
